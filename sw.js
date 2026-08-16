@@ -1,5 +1,5 @@
 /* L'étagère Montessori — service worker : l'app fonctionne hors ligne */
-const CACHE = "etagere-v1";
+const CACHE = "etagere-v2";
 const SHELL = [
   "./", "./index.html", "./manifest.webmanifest",
   "./icon-192.png", "./icon-512.png", "./icon-512-maskable.png", "./apple-touch-icon.png"
